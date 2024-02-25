@@ -6,11 +6,11 @@ On this github profile, you'll mostly find some projects i made related to linux
 
 ### Things know about
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,gamemakerstudio,lua,gtk,js,cpp" />
+    <img src="https://skillicons.dev/icons?i=gamemakerstudio,cmake,gtk,lua,js,cpp" />
 
 ### Things i'm learning about
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cmake,rust,c" />
+    <img src="https://skillicons.dev/icons?i=git,rust,c" />
 
 ### What i'm currently using
   <a href="https://skillicons.dev">
