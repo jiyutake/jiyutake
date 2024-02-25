@@ -1,6 +1,6 @@
 ### Welcome to my profile!
 
-I'm an computer enthusiast that does programming, design and art as hobbies. Feel free to reach me on discord if you want to! <code>@jiyutake</code>
+I'm a computer enthusiast that does programming, design and art as hobbies. Feel free to reach me on discord if you want to! <code>@jiyutake</code>
 On this github profile, you'll mostly find some projects i made related to linux.
 
 
