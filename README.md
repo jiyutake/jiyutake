@@ -14,7 +14,7 @@ On this github profile, you'll mostly find some projects i made related to linux
 
 ### What i'm currently using
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nix,neovim,figma,linux" />
+    <img src="https://skillicons.dev/icons?i=linux,nix,neovim,figma" />
 
 <!--
 **jiyutake/jiyutake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
