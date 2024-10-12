@@ -1,4 +1,4 @@
-### Welcome to my profile!
+## Welcome to my profile!
 
 I'm a computer enthusiast that does programming, design and art as hobbies. Contact information available at [my personal website](https://jiyutake.vercel.app/).
 
