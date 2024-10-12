@@ -12,4 +12,4 @@ I'm a computer enthusiast that does programming, design and art as hobbies. Cont
 
 ### What i'm currently using
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,nix,vim" />
